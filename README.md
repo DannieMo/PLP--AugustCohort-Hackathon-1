@@ -1,7 +1,5 @@
 # PLP--AugustCohort-Hackathon-1
 
-# PLP-AugustCohort-Hackathon-1
-
 # Portfolio-Website
 
 - This project is a Hackathon Challenge for the August Cohort of Power Learn Project Africa. PLP Africa is a Software Engineering Academy with a mission to train software engineers in Africa for Africa and the world.  
